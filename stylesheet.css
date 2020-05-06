@@ -87,13 +87,13 @@ h4 {
 
 
 .skill-contents{
-  display:flex;
+  display:inline-block;
 }
 
-.skill-icon{
-  flex:auto;
+skill-icon{
+  float:left;
   position:relative;
-  margin:30px 0;
+  margin:30px 20px;
 }
 
 .skill-icon p{
