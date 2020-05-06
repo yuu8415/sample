@@ -90,7 +90,7 @@ h4 {
   display:inline-block;
 }
 
-skill-icon{
+.skill-icon{
   float:left;
   position:relative;
   margin:30px 20px;
